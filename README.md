@@ -8,7 +8,7 @@ The two designs as well as some extra parts (accessories) can be easily 3D print
 
 ## Adjustable Splitter
 
-![Adjustable Splitter Parts](adjustable.jpg "Adjustable Splitter Parts")
+![Adjustable Splitter Parts](adjustable_parts.jpg "Adjustable Splitter Parts")
 
 ![Adjustable Splitter Whole](adjustable_whole.jpg "Adjustable Splitter Whole")
 
