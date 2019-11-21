@@ -4,7 +4,11 @@ This repository contains the design files for two new dry sediment splitters whi
 
 The first model (adjustable) provides a single aliquot, adjustable from 1/2 to 1/32 fraction, and the second (fixed) model provides multiple aliquots of different sizes in separate vials.
 
-The two designs as well as some extra parts (accessories) can be easily 3D printed (recommended resolution: 0.10 mm)
+The two designs as well as some extra parts (accessories) can be easily 3D printed (recommended resolution: 0.10 mm).
+
+A detailed presentation and accuracy tests were published in: https://www.sciencedirect.com/science/article/pii/S0377839819300908?via%3Dihub
+
+More information and images can be found at: https://theguyonhismicroscope.wordpress.com/3d-sediment-splitters/
 
 ## Adjustable Splitter
 
