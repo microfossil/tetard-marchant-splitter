@@ -18,9 +18,14 @@ More information and images can be found at: https://theguyonhismicroscope.wordp
 
 [![Adjutable Splitter](https://i.imgur.com/HpgqUH7.png)](https://youtu.be/wMSDQfF5-Y8 "Adjustable Splitter")
 
+Click on the image above to see the instruction video.
 
 ## Fixed Splitter
 
 ![FixedSplitterParts](fixed_parts.jpg "Fixed Splitter Parts")
 
 ![FixedSplitterWhole](fixed_whole.jpg "Fixed Splitter Whole")
+
+[![Fixed Splitter](https://i.imgur.com/77N3Q1R.png)](https://youtu.be/7vonAb4hXPM "Fixed Splitter")
+
+Click on the image above to see the instruction video.
