@@ -16,7 +16,8 @@ More information and images can be found at: https://theguyonhismicroscope.wordp
 
 ![AdjustableSplitterWhole](adjustable_whole.jpg "Adjustable Splitter Whole")
 
-https://youtu.be/wMSDQfF5-Y8
+[![Adjutable Splitter](https://imgur.com/HpgqUH7)](https://youtu.be/wMSDQfF5-Y8 "Adjustable Splitter")
+
 
 ## Fixed Splitter
 
