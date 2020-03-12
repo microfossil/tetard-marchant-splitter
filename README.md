@@ -1,3 +1,5 @@
+UPDATE: Splitters can be printed and sold on demand. Just contact me at tetard@cerege.fr for more information.
+
 # Sediment Splitters
 
 This repository contains the design files for two new dry sediment splitters which can be used in micropalaeontological studies for sample fractionation.
