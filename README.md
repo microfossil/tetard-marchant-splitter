@@ -1,4 +1,5 @@
-UPDATE: Splitters can be printed and sold on demand. Just contact me at tetard@cerege.fr for more information.
+# UPDATE: Splitters can be printed and sold on demand. Just contact me at tetard@cerege.fr for more information.
+
 
 # Sediment Splitters
 
@@ -31,3 +32,5 @@ Click on the image above to see the instruction video.
 [![Fixed Splitter](https://i.imgur.com/77N3Q1R.png)](https://youtu.be/7vonAb4hXPM "Fixed Splitter")
 
 Click on the image above to see the instruction video.
+
+# UPDATE: Splitters can be printed and sold on demand. Just contact me at tetard@cerege.fr for more information.
