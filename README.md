@@ -1,4 +1,4 @@
-## UPDATE: If you don't own a 3D printer, splitters can be printed and sold on demand. Just contact me at tetard@cerege.fr for more information.
+## UPDATE: If you don't own a 3D printer, splitters can be printed on demand. Just contact me at tetard@cerege.fr for more information.
 
 
 # Sediment Splitters
