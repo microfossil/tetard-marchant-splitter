@@ -1,4 +1,5 @@
-## UPDATE: If you don't own a 3D printer, splitters can be printed on demand. Just contact us at tetard@cerege.fr for more information.
+## UPDATE: If you don't own a 3D printer, splitters can be printed on demand.
+You can contact us at tetard.martin@gmail.com for more information and visit https://micropalprinter.wordpress.com to see our products!
 
 
 # Sediment Splitters
@@ -34,4 +35,5 @@ Click on the image above to see the instruction video.
 Click on the image above to see the instruction video.
 
 
-## UPDATE: If you don't own a 3D printer, splitters can be printed on demand. Just contact us at tetard@cerege.fr for more information.
+## UPDATE: If you don't own a 3D printer, splitters can be printed on demand.
+You can contact us at tetard.martin@gmail.com for more information and visit https://micropalprinter.wordpress.com to see our products!
