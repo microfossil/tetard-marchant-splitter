@@ -1,6 +1,8 @@
 ## UPDATE: If you don't own a 3D printer, splitters can be printed on demand.
+
 You can contact us at tetard.martin@gmail.com for more information and visit https://micropalprinter.wordpress.com to see our products!
 
+We no longer support updates of the last splitter versions on Github to prevent reverse engineering and file / printing reselling. Please directly contact us at tetard.martin@gmail.com to obtain the last STL files for free.
 
 # Sediment Splitters
 
@@ -36,4 +38,7 @@ Click on the image above to see the instruction video.
 
 
 ## UPDATE: If you don't own a 3D printer, splitters can be printed on demand.
+
 You can contact us at tetard.martin@gmail.com for more information and visit https://micropalprinter.wordpress.com to see our products!
+
+We no longer support updates of the last splitter versions on Github to prevent reverse engineering and file / printing reselling. Please directly contact us at tetard.martin@gmail.com to obtain the last STL files for free.
