@@ -12,7 +12,7 @@ The two designs as well as some extra parts (accessories) can be easily 3D print
 
 A detailed presentation and accuracy tests were published in: https://www.sciencedirect.com/science/article/pii/S0377839819300908?via%3Dihub
 
-More information and images can be found at: https://theguyonhismicroscope.wordpress.com/3d-sediment-splitters/
+More information and images can be found at: https://micropalprinter.wordpress.com
 
 ## Adjustable Splitter
 
